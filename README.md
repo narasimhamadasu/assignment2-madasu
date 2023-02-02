@@ -31,4 +31,25 @@ Below table shows my opinion to visit countries
 > Clothes make the man. Naked people have little or no influence in society.
 <br> - *Mark Twain*
 ---
+
+###  System Font Stack 
+> What is the system font stack? <br>
+[Stackoverflow](https://stackoverflow.com/questions/62848039/what-is-the-system-font-stack#:~:text=1.,on%20its%20different%20supported%20platforms.)
+
+```
+/* Define the "system" font family */
+@font-face {
+  font-family: system-ui;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+/* Now, let's apply it on an element */
+body {
+  font-family: "system-ui";
+}
+```
+[css-tricks](https://css-tricks.com/snippets/css/system-font-stack/)
+---
 [About Myself](AboutMe.md)
