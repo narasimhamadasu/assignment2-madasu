@@ -24,4 +24,11 @@ Below table shows my opinion to visit countries
 |Thailand|Thaimassage|30|
 |China|Carona |1|
 ---
+### Funny Quotes
+> My mother always used to say: The older you get, the better you get, unless you’re a banana.
+<br> - *Rose (Betty White)* 
+
+> Clothes make the man. Naked people have little or no influence in society.
+<br> - *Mark Twain*
+---
 [About Myself](AboutMe.md)
