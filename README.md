@@ -15,6 +15,13 @@ Cricket has 11 players, and each player needs to coordinate with each other to w
 * Gujarat Titans
 * Mumbai Indians
 
-
+### Countries that I recommend to visit
+Below table shows my opinion to visit countries 
+|Country|Reason|Days|
+|---|---|---|
+|USA|Statue of liberty|90|
+|India|Culture|90|
+|Thailand|Thaimassage|30|
+|China|Carona |1|
 ---
-[About Me](AboutMe.md)
+[About Myself](AboutMe.md)

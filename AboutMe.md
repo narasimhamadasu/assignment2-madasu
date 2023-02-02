@@ -1,7 +1,7 @@
 # your name
 
-about yourself
+My strength is I'm very Hard working and a quick learner. My weakness is I'm a workaholic and I get nervous talking to new people. 
 
-![yourImage](ImagePath)
+![My Pic](Raj.jpeg)
 
 
